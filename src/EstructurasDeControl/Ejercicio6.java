@@ -40,7 +40,7 @@ public class Ejercicio6 {
 
             switch (opcion) {
                 case 1:
-                    System.out.println("La suma de los numeros es: " + (n1 + n2));
+                    System.out.println("La suma de los dos numeros es: " + (n1 + n2));
                     break;
                 case 2:
                     System.out.println("La resta de los numeros es: " + (n1 - n2));
