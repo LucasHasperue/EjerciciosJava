@@ -13,7 +13,7 @@ public class Ejercicio5 {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
 
-        System.out.println("Ingrese un valor limite positivo");
+        System.out.println("Ingrese un valor limite positive");
 
         int numLim = leer.nextInt();
 
